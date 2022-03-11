@@ -50,7 +50,7 @@ Clique em **Watch** (Inspecionar) no topo de um repositório para inspecioná-lo
 
 ### Criar pull requests
 
- Talvez você queira contribuir com o o projeto de outra pessoa, seja adicionando recursos, seja corrigindo erros. Após fazer as alterações, informe o autor original enviando uma pull request. Para obter mais informações, consulte "[Sobre pull requests](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)".
+ Talvez você queira contribuir com o projeto de outra pessoa, seja adicionando recursos, seja corrigindo erros. Após fazer as alterações, informe o autor original enviando uma pull request. Para obter mais informações, consulte "[Sobre pull requests](/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)".
 
  ![Botão Pull request](/assets/images/help/repository/repo-actions-pullrequest.png)
 
